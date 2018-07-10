@@ -1,1 +1,1 @@
-Webpack4_VueJS_template
+# Starter template for webpack 4 and VueJS project.
